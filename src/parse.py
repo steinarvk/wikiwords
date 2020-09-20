@@ -118,6 +118,9 @@ def articles_in_dump(bz2filename, sharder=None):
 def wordsequences_in_dump(bz2filename, sharder=None):
     totalbytes, totalwords, totalarts = 0, 0, 0
     for title, art in articles_in_dump(bz2filename, sharder=sharder):
+        if not art:
+            logging.warning("Article %s is missing body", title)
+            continue
         thisbytes = len(art)
         words = list(words_in_article(art))
         thiswords = len(words)
