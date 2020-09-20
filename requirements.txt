@@ -1,0 +1,7 @@
+click==7.1.2
+defusedxml==0.6.0
+joblib==0.16.0
+mwparserfromhell==0.5.4
+nltk==3.5
+regex==2020.7.14
+tqdm==4.49.0
