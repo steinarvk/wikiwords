@@ -8264,7 +8264,6 @@ stormen 740
 signere 740
 livstid 740
 sikter 740
-require 740
 presedens 740
 landsdekkende 739
 forfulgt 739
@@ -10497,7 +10496,6 @@ handelssenter 534
 heleid 534
 lysår 534
 nattsvermere 534
-qid 534
 særtrekk 533
 sjømenn 533
 tilbaketrekning 533
@@ -10517,7 +10515,6 @@ prioritert 532
 kopper 532
 konkurransens 532
 abonnenter 532
-que 532
 høyesterettsdommer 532
 book 532
 vansker 531
@@ -12260,7 +12257,6 @@ kommunisme 432
 could 432
 kapitulasjon 432
 kortene 432
-qui 432
 representative 432
 mytisk 432
 rekonstruksjon 432
@@ -12564,7 +12560,6 @@ bregner 416
 sandvolleyballspiller 416
 revisjoner 416
 meta 416
-qualifier 416
 sjekkes 415
 kommuniserer 415
 dokumentarfilmen 415
@@ -13919,7 +13914,6 @@ noko 361
 those 361
 armenerne 361
 bakkant 361
-query 361
 språkfamilien 360
 bi 360
 segmentet 360
@@ -15955,7 +15949,6 @@ presteseminaret 294
 annenplass 294
 ji 294
 nymfe 294
-ifeq 294
 lokalisere 293
 diktatoren 293
 novellesamlingen 293
@@ -17191,7 +17184,6 @@ lead 265
 synshemmede 265
 units 265
 understøtte 265
-assertequals 265
 retretten 264
 tvilende 264
 vedtektene 264
@@ -20912,7 +20904,6 @@ skolestyre 197
 tese 197
 gudinnene 197
 hvalen 197
-musique 197
 reklamere 197
 føyd 197
 aktivisme 197
@@ -20926,7 +20917,6 @@ parlamentsmedlemmer 197
 stjålne 197
 speider 197
 otherwise 197
-required 197
 written 197
 livslange 197
 orlogsskip 197
@@ -21865,7 +21855,6 @@ ordspråk 185
 flekkene 185
 brukshund 185
 vingepar 185
-request 185
 heving 185
 vingede 185
 iris 185
@@ -21950,7 +21939,6 @@ utmerkelsene 184
 haukefamilien 184
 laika 184
 histyeara 184
-qualificatif 184
 herjer 183
 privatlærer 183
 understøttet 183
@@ -22852,7 +22840,6 @@ hjertelig 173
 ubetjent 173
 metrisk 173
 hotellrom 173
-politique 173
 tangentinstrumenter 173
 pansring 173
 offensiver 173
@@ -23033,7 +23020,6 @@ hverdagslivet 171
 bittert 171
 veddemål 171
 glitrende 171
-qu 171
 buksene 171
 irriterer 171
 ishall 171
@@ -27735,7 +27721,6 @@ bøtte 130
 fremvisning 130
 whitespace 130
 handelsflagg 130
-assert 130
 documents 130
 landsting 130
 magma 130
@@ -32079,7 +32064,6 @@ gråhvite 105
 saltak 105
 modusen 105
 endagsritt 105
-quote 105
 oppklarende 105
 caption 105
 pæreformede 105

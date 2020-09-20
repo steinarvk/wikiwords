@@ -4,8 +4,11 @@ Software to extract a word list from a Wikipedia data dump.
 
 This software was written to construct a quick-and-dirty
 word list with frequency information and no stemming or
-lemmatization (i.e. including inflected forms -- suitable for
-applications such as spellchecking or word games).
+lemmatization (i.e. including inflected forms). It also
+attempts to avoid including things like proper nouns
+and abbreviations. These things taken together may mean
+that the suitable applications are largely restricted to
+word games.
 
 The software was written with Norwegian (nowiki) in mind,
 but the same process would likely work for other similar
