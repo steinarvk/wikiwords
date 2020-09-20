@@ -1,4 +1,6 @@
 import collections
+import re
+import sys
 
 def read(f):
     for line in f:
@@ -46,6 +48,25 @@ class CompositeFilter(object):
         for filt in self.filts:
             if not filt(word, freq):
                 return False
+        return True
+
+class RegexBlocklistFilter(object):
+    def __init__(self, block_patterns):
+        self.patterns = [re.compile(pat) for pat in block_patterns]
+
+    def __call__(self, word, freq):
+        for pat in self.patterns:
+            if pat.match(word):
+                return False
+        return True
+
+class ContainsAnyOfFilter(object):
+    def __init__(self, letters):
+        self.letters = letters
+
+    def __call__(self, word, freq):
+        if not (set(word) & set(self.letters)):
+            return False
         return True
 
 def filter(lst, filt):
