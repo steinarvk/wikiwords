@@ -1,0 +1,192 @@
+{{Infoboks idrettslag |
+lag = Bryne |
+logo =  |
+fulltnavn = Bryne Fotballklubb |
+kamper = {{flagg|Norge}} [[Gabriel Høyland]] (596) |
+mål = {{flagg|Norge}} [[Johannes Vold]] (274) |
+kallenavn = ''Jærens superlag'' |
+grunnlagt = [[10. april]] [[1926]] |
+hjemmebane = [[Bryne stadion]] |
+kapasitet = 10 000|
+supporterklubb = ''[[B-gjengen (supporterklubb)|B-Gjengen ]]'' |
+styreleder = {{flagg|Norge}} [[Nils Steinsland]]|
+daglig leder = {{flagg|Norge}} [[Knut Ove Joa]]|
+trener = {{Flagg|Norge}} [[Jan Halvor Halvorsen]]|
+liga = [[2. divisjon fotball for menn|2. divisjon, avdeling 2]] ([[2. divisjon fotball for menn 2020|2020]])|
+annet = [[2. divisjon fotball for menn 2019|2019]]: 10.-plass i [[2. divisjon fotball for menn|2. divisjon, avd 2]]|
+mønster_va1= | mønster_k1=| mønster_ha1= |
+venstrearm1= FF0000| kropp1= FF0000| høyrearm1= FF0000| shorts1= SSSSSS| sokker1= FFFFFF |
+mønster_va2= | mønster_k2= | mønster_ha2= |
+venstrearm2= 000000| kropp2= 000000| høyrearm2= 000000| shorts2= 000000| sokker2= 000000|
+}}
+'''Bryne Fotballklubb''' er en fotballklubb på [[Bryne]]. Bryne Idrettslag ble stiftet [[10. april]] [[1926]], og det var kun fotball som ble drevet innen laget de første 10 årene, senere også friidrett. Den første obligatoriske kampen ble spilt mot nabobygden [[Klepp]] i [[1929]], og endte 4–4. I [[1991]] endret Bryne IL struktur. Fotballavdelingen ble egen klubb, og kalt Bryne FK. 
+
+Klubbens største meritter er [[NM i fotball for menn|cupseieren]] i [[1987]] etter mål av trønderen [[Kolbjørn Ekker]], og seriesølv i [[1980]] og [[1982]]. Klubben spilte i 1. divisjon (tilsvarende [[Eliteserien i fotball|Eliteserien]]) fra [[1976]] til [[1988]]. Klubben rykket opp til Eliteserien høsten [[1999]], men rykket ned igjen til 1. divisjon i [[2003]]. I 2016 rykket Bryne ned i 2. divisjon etter 45 sesonger sammenhengende i de to øverste divisjonene.<ref>{{Kilde avis|tittel=Bryne rykker ned etter høydramatisk siste serierunde|avis=Aftenposten|url=http://www.aftenposten.no/100Sport/fotball/forstediv/Bryne-rykker-ned-etter-hoydramatisk-siste-serierunde-850975_1.snd|besøksdato=2016-10-31}}</ref>
+
+I 2006 ble mangemillionæren [[Tore Lie]] ny hovedsponsor for Bryne, gjennom selskapet sitt [[Otium]]. Avtalen var verd 3,6 millioner kroner over tre år.
+
+I 2017, etter mange år uten hovedsponsor, gikk Sørvest Betongsaging inn som hovedpartner.<ref>{{Kilde avis|tittel=Sørvest Betongsaging blir ny hovedpartner|avis=Bryne FK|url=http://www.brynefk.no/nyheter/sorvest-betongsaging-blir-ny-hovedpartner|besøksdato=2017-05-23|språk=nb-NO}}{{død lenke|dato=april 2018 |bot=InternetArchiveBot }}</ref>
+
+
+==Tabell 2020==
+{{2. divisjon 2020 avdeling 2 tabell}}
+
+== Stadionanlegg ==
+Stadionet til Bryne heter [[Bryne stadion]] og har en tilskuerkapasitet på {{formatnum:10000}} ({{formatnum:2507}} seter), begrenset til {{formatnum:3500}}. Publikumsrekorden ble satt i 1980 mot erkerival Viking. Da var det 13621 tilskuere på stadion. På dagens stadionanlegg ligger en fotballhall, Jærhallen, med de ytre målene 45 x 70m. Hallen er en stålkonstruksjon trukket med PVC-belegg. På tomta ligger, i tillegg til hall og stadionanlegg, også klubbhus og treningsbaner.
+[[Fil:Bryne Stadion.jpg|thumb|Bryne Stadion.]]
+Bryne FK jobba fra 2005 til 2008 med å bygge et nytt stadion ved navn Jæren Arena, et intimt anlegg med 8866 seter som til slutt blei lagt til industriområdet Håland, nord for Bryne, etter at det viste seg vanskelig å det la det bygges stadion i Nedremarka (Ree). Planene på Håland blei skrinlagt i mai 2008 pga. kostnadsoverskridelser.<ref>[http://www.aftenbladet.no/lokalt/article650013.ece Aftenbladet.no: Jæren Arena sprakk med 50 millioner] {{Wayback|url=http://www.aftenbladet.no/lokalt/article650013.ece |date=20080624105800 }}</ref> Grunnarbeidene på tomta var da ferdige. 
+
+Klubben har siden det blei klart at Jæren Arena ikke kom til å bli realisert, jobba med å utarbeide dagens tomt. En ser for seg å bygge et nytt stadion der dagens treningsanlegg ligger. Utbyggingen er tenkt trinnvis, i første byggetrinn inngår ny hovedtribune på den ene langsiden, med tilhørende garderober, presseområde og andre fasiliteter. Trinn to, tre og fire, med oppgradering av motsatt langside og de to kortsidene, vil eventuelt komme etterhvert. Prislappen på første byggetrinn er 50 millioner kroner.<ref>{{Kilde www |url=http://www.jbl.no/modules/module_123/proxy.asp?C=69&I=28079&D=2&mid=166 |tittel=Arkivert kopi |besøksdato=2008-10-18 |arkiv-url=https://web.archive.org/web/20081006145834/http://www.jbl.no/modules/module_123/proxy.asp?C=69&I=28079&D=2&mid=166# |arkivdato=2008-10-06 |død-lenke=ja }}</ref>
+
+I ei pressemelding i forbindelse med avsløringa av planene, het det: – Klubben har mottatt betydelig sponsorstøtte for anlegget, og er i konstruktiv dialog med banker om lånefinansiering innenfor den rammen som er forsvarlig med utgangspunkt i forventede merinntekter.
+
+F.R.O sesongstart 2013 så skal B-gjengen fordeles utover hele stadionanlegget å ikke lenger ha sin "egen" plass på stadionet .
+
+I første byggetrinn inngår også flomlys, undervarme og kunstgrasbane. Kunstgrasbanen har vakt oppsikt, ikke minst fordi Bryne ligger i det som tradisjonelt har vært et av de sterkeste jordbruksområda i landet, og fordi dagens naturgrasmatte er blant de beste i landet. En har forsvart beslutninga med at anlegget skal kunne brukes av flest mulig, og at et nytt stadion vil bygges der dagens treningsanlegg, der breddeavdelinga i hovedsak trener.
+På det ekstraordinære styremøtet 20. oktober, vil en be om fullmakt til å etablere nytt stadion på bane 2 og 3, samt fullmakt til å ta opp pantelån for stadionbygging.<ref>[http://www.jbl.no/modules/module_123/proxy.asp?C=69&I=28137&D=2&mid=]{{Død lenke|dato=oktober 2018 |bot=InternetArchiveBot }}</ref>
+
+==Sesongen 2008==
+
+Etter flere forsterkninger og et styrket sportslig apparat før 2008-sesongen skulle Bryne kjempe i toppen av Adeccoligaen denne sesongen da det var hele tre plasser med direkte opprykk. [[Rolf Teigen]] ble hentet inn som hovedtreneren som skulle bringe Bryne opp i det gjeveste selskap, sammen med ham hadde klubben også [[Frode Olsen]] (sportssjef), [[Kurt Hegre]] (keepertrener) og [[Erik Fuglestad]] (spillerutvikler). Sesongen 2008 hadde i store deler av sesongen vært en kamp i bunnstriden. Forventningene var større både blant spillere og tilhengere, og klubben måtte kutte i budsjettet pga. tapte inntekter som følge av den svake sesongen.<ref>[http://fotball.aftenbladet.no/forstediv/article117499.ece]{{død lenke|dato=september 2017 |bot=InternetArchiveBot }}</ref>
+
+[[2. september]] [[2008]] ble sportssjef Frode Olsen sparket, like etter ble keepertrener [[Kurt Hegre]] permittert på grunn av anstrengt økonomi. I tillegg forsvant høytlønnede [[Håvard Sakariassen]] til [[Glimt]]. Flere har kritisert styret og trener Rolf Teigen for den svake sesongen, men spillerne har utad støtta trenerapparatet, og selv tatt selvkritikk.<ref>[http://fotball.aftenbladet.no/forstediv/article114593.ece]{{død lenke|dato=september 2017 |bot=InternetArchiveBot }}</ref>  Blant annet skrev sportsleder i Stavanger Aftenblad Øyvind Ellingsen at «Rolf Teigen må gå».<ref>[http://fotball.aftenbladet.no/kommentar/article116320.ece Aftenbladet.no – Aftenbladet-kommentar:- Rolf Teigen må gå] {{Wayback|url=http://fotball.aftenbladet.no/kommentar/article116320.ece |date=20081009043054 }}</ref>
+
+== Prestasjoner ==
+*'''[[Eliteserien i fotball|Toppdivisjonen]]:'''
+**'''Sølv (2):''' [[1. divisjon fotball for herrer 1980|1980]], [[1. divisjon fotball for herrer 1982|1982]]
+
+*'''[[NM i fotball for herrer|Cupen]]:'''
+**'''Gull (1):''' [[Norgesmesterskapet i fotball for herrer 1987|1987]]
+**'''Sølv (1):''' [[Norgesmesterskapet i fotball for herrer 2001|2001]]
+
+*'''Sesonger i øverste divisjon:'''
+**17
+
+===Cupmestre for Bryne 1987===
+[[Lars Gaute Bø]], [[Kolbjørn Ekker]], [[Bjørn Gulden]], [[Leif Rune Salte]], [[Roar Pedersen]], [[Hugo Hansen]], [[Tor Fosse]], [[Paal Fjeldstad]], [[Arne Larsen Økland]], [[Børre Meinseth]], [[Jan Madsen (fotballspiller)|Jan Madsen]], [[Geir Giljarhus]], [[Stig Norheim]], [[Paul Folkvord]], [[Kjetil Sigurdsen]], [[Bjarne Lodden]].
+
+== Klubbrekorder ==
+*Seier, øverste divisjon: 7-0 mot [[Bodø/Glimt]] 1980
+*Seier: 9-1 mot [[Sportsklubben Haugar|Haugar]] 1992
+*Tap, øverste divisjon: 0-9 mot [[Rosenborg Ballklub|Rosenborg]] 2000
+*Største tilskuerantall, [[Bryne stadion]]: 13 621 mot erkerival [[Viking FK]] [[9. oktober]] [[1980]]
+*Flest kamper, øverste divisjon: 227, [[Gabriel Høyland]]
+*Flest klubbkamper: 596, [[Gabriel Høyland]]
+*Flest mål, øverste divisjon: 59, [[Arne Larsen Økland]]
+*Flest mål: 274, [[Johannes Vold]]
+
+== Bryne i europacup ==
+*1981 – 1. runde KFC Winterslag 0-2 (h) 2-1
+*1983 – 1. runde [[RSC Anderlecht]] 0-3 (h) 1-1
+*1988 – kvalifiserende runde Spartacus Elore, Bekescsaba 0-3,  2-1 (h)
+
+== Spillerstall ==
+Pr. 9. juni 2020
+<ref>[http://www.brynefk.no/lag A-laget spillerstall]</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=Norge|name=[[Oscar Gåsland]]|pos=K}}
+{{Fs player|no=2|nat=Norge|name=[[Oliver Rotihaug]]|pos=F}}
+{{Fs player|no=3|nat=Norge|name=[[Pål Aamodt]]|pos=F}}
+{{Fs player|no=4|nat=Norge|name=[[Marius Andersen (fotballspiller)|Marius Andersen]]|pos=F}}
+{{Fs player|no=5|nat=Færøyene|name=[[Rógvi Baldvinsson]]|pos=F}}
+{{Fs player|no=6|nat=Norge|name=[[Henning Romslo]]|pos=MB}}
+{{Fs player|no=7|nat=Norge|name=[[Vegard Aasen]]|pos=MB}}
+{{Fs player|no=8|nat=Australia|name=[[Luc Jeggo]]|pos=MB}}
+{{Fs player|no=9|nat=Norge|name=[[Thierry Dabove]]|pos=A}}
+{{Fs player|no=10|nat=Norge|name=[[Robert Undheim]]|pos=A}}
+{{Fs player|no=11|nat=Norge|name=[[Bjarne Langeland]] [[Fil:Kaptan logo.svg|11px|lenke=Lagkaptein]]|pos=MB}}
+{{Fs mid}}
+{{Fs player|no=14|nat=Norge|name=[[Tobias Bakken Dalbye]]|pos=MB}}
+{{Fs player|no=15|nat=Norge|name=[[Kristoffer Hay]]|pos=F}}
+{{Fs player|no=16|nat=Norge|name=[[Andreas Dybevik]]|pos=MB}}
+<!--{{Fs player|no=17|nat=Norge|name=[[Joacim Holtan]]|pos=A}}  Klar fra 10. juni 2020-->
+{{Fs player|no=18|nat=England|name=[[Josh Robson]]|pos=F}}
+{{Fs player|no=21|nat=Norge|name=[[Krister Wemberg]]|pos=F}}
+{{Fs player|no=22|nat=Norge|name=[[Daniel Seland Karlsbakk]]|pos=A}}
+{{Fs player|no=26|nat=Norge|name=[[Torben Dvergsdal]]|pos=A}}
+{{Fs player|no=27|nat=Norge|name=[[Ola Mæland]]|pos=MB}}
+{{Fs player|no=28|nat=Norge|name=[[Petter Øfsteng]]|pos=MB}}
+{{Fs player|no=29|nat=Norge|name=[[Herman Rugland]]|pos=MB}}
+{{Fs player|no=99|nat=Litauen|name=[[Igor Spiridonov]]|pos=K}}
+{{Fs end}}
+
+=== Utlånte spillere ===
+{{Fs start}}
+{{Fs end}}
+
+== Trenerstaben ==
+{| cellspacing="0" cellpadding="2"
+|Trener||Jan Halvor Halvorsen
+|-
+|Keepertrener||Stian Rosseland
+|-
+|Spillerutvikler||Even Sel
+|}
+
+==Flest mål scoret for Bryne==
+{| class="wikitable"
+|-
+! Spiller
+! Mål
+|-
+| [[Johannes Vold]] ||274 ||
+|-
+| [[Odd H. Sirevaag]]||257 ||
+|-
+| [[Gaute Skrudland]]||206||
+|-
+| [[Martin Thu]] ||201 || 
+|-
+| [[Gabriel Høyland ]] ||168 ||
+|}
+
+
+== Kjente spillere ==
+[[Fil:Roger Eskeland.jpg|thumb|[[Roger Eskeland]]{{Byline|Jarle Vines}}]]
+{|
+|valign="top"|
+* {{flagg|Norge}} [[Johannes Vold]]
+* {{flagg|Norge}} [[Gabriel Høyland]]
+* {{flagg|Norge}} [[Arne Larsen Økland]]
+* {{flagg|Norge}} [[Birk Engstrøm]]
+* {{flagg|Norge}} [[Rune Ottesen]]
+* {{flagg|Norge}} [[Hugo Hansen]]
+* {{flagg|Norge}} [[Trond Sirevåg]]
+* {{flagg|Norge}} [[Mons Ivar Mjelde]]
+* {{flagg|Norge}} [[Per Egil Nygård]]
+* {{flagg|Norge}} [[Stig Norheim]]
+* {{flagg|Norge}} [[Lars Gaute Bø]]
+* {{flagg|Norge}} [[Erling Braut Haaland]]
+|width="10"|&nbsp;
+|valign="top"|
+* {{flagg|Norge}} [[Alf-Inge Håland]]
+* {{flagg|Norge}} [[Asle Andersen]]
+* {{flagg|Norge}} [[Jan Madsen]]
+* {{flagg|Norge}} [[Ragnvald Soma]]
+* {{flagg|Norge}} [[Erik Mykland]]
+* {{flagg|Norge}} [[Knut Sirevåg]]
+* {{flagg|Norge}} [[Roger Eskeland]]
+* {{flagg|Norge}} [[Tor Fosse]]
+* {{flagg|Norge}} [[Janove Ottesen]]
+|}
+
+==Referanser==
+<references/>
+
+== Eksterne lenker ==
+* {{Offisielt nettsted}}
+* [http://www.b-gjengen.com/ B-Gjengen] &ndash; Supporterklubb
+
+{{Bryne FK}}
+{{2. divisjon avdeling 2}}
+{{4. divisjon avdeling 2 (Rogaland)}}
+{{2. divisjon kvinner avdeling 4}}
+{{3. divisjon kvinner (Rogaland)}}
+{{Klubber i Eliteserien i fotball}}
+{{Autoritetsdata}}
+
+[[Kategori:Bryne Fotballklubb| ]]
+[[Kategori:Fotballag i Rogaland]]
+[[Kategori:Fotballag etablert i 1926]]
+[[Kategori:Time]]
+[[Kategori:Kongepokalvinnere i fotball]]
