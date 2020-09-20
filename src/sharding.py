@@ -13,14 +13,17 @@ def compose(*sharders):
     return f
 
 def from_spec(spec):
-    if spec:
-        a, b = parse_spec(spec)
-        return sharder(a, b)
+    if not spec:
+        return identity
+    a, b = parse_spec(spec)
+    return sharder(a, b)
 
 def identity(x):
     return x
 
 def limiter(n):
+    if not n:
+        return identity
     def f(stream):
         ctr = 0
         for x in stream:
