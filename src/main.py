@@ -2,10 +2,12 @@ import click
 import logging
 import string
 import sys
+import json
 
 import parse
 import sharding
 import freqlist
+import wordtrie
 
 logging.basicConfig(level="INFO")
 
@@ -54,6 +56,12 @@ def word_list_to_letter_distribution():
     total = sum(ctr.values())
     for letter, count in ctr.most_common():
         print(letter, 100 * count/total)
+
+@main.command()
+def word_list_to_trie():
+    inp = sys.stdin
+    out = sys.stdout
+    json.dump(wordtrie.Trie(w for w, _ in freqlist.read(inp)).export(), out)
 
 @main.command()
 @click.argument("words")
